@@ -1,6 +1,10 @@
 {
     "Japan": {
         "Date": "2019-04-01",
-        "Images": "apple-touch-icon.png"
+        "Images": ["apple-touch-icon.png"]
+    },
+    "Australia": {
+        "Date": "2019-04-01",
+        "Images": ["apple-touch-icon.png"]
     }
 }
