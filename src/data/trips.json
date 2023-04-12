@@ -1,5 +1,5 @@
 {
-    "8": {
+    "bali": {
         "locations": [
             {
                 "name": "bali",
@@ -11,9 +11,14 @@
                     "https://cdn.discordapp.com/attachments/1095425067611070686/1095425098082697277/MVIMG_20171227_123224.jpg"
                 ]
             }
-        ]
+        ],
+        "start": {
+            "name": "singapore",
+            "lat": 1.352083,
+            "lng": 103.819836
+        }
     },
-    "7": {
+    "tanjung leman": {
         "locations": [
             {
                 "name": "tanjung leman",
@@ -25,9 +30,14 @@
                     "https://cdn.discordapp.com/attachments/626126949529550849/1095424002215923805/IMG-20180312-WA0018.jpg"
                 ]
             }
-        ]
+        ],
+        "start": {
+            "name": "singapore",
+            "lat": 1.352083,
+            "lng": 103.819836
+        }
     },
-    "6": {
+    "中国＋四国": {
         "locations": [
             {
                 "name": "osaka",
@@ -106,9 +116,14 @@
                     "https://cdn.discordapp.com/attachments/1095412549043896471/1095422498113335326/00100dPORTRAIT_00100_BURST20181220183919447_COVER.jpg"
                 ]
             }
-        ]
+        ],
+        "start": {
+            "name": "singapore",
+            "lat": 1.352083,
+            "lng": 103.819836
+        }
     },
-    "5": {
+    "comiket 95": {
         "locations": [
             {
                 "name": "tokyo",
@@ -131,9 +146,14 @@
                     "https://cdn.discordapp.com/attachments/1095406965221499051/1095407215583698964/IMG_20190101_010054.jpg"
                 ]
             }
-        ]
+        ],
+        "start": {
+            "name": "singapore",
+            "lat": 1.352083,
+            "lng": 103.819836
+        }
     },
-    "4": {
+    "melbourne to tasmania": {
         "locations": [
             {
                 "name": "melbourne",
@@ -158,9 +178,14 @@
                     "https://cdn.discordapp.com/attachments/1095401265896366190/1095402134150852739/IMG_20191227_162508.jpg"
                 ]
             }
-        ]
+        ],
+        "start": {
+            "name": "singapore",
+            "lat": 1.352083,
+            "lng": 103.819836
+        }
     },
-    "3": {
+    "ski trip 2022": {
         "locations": [
             {
                 "name": "les arcs",
@@ -172,9 +197,14 @@
                     "https://cdn.discordapp.com/attachments/1095398235528507432/1095398276615909497/PXL_20221222_171917590.jpg"
                 ]
             }
-        ]
+        ],
+        "start": {
+            "name": "imperial college london",
+            "lat": 51.4985,
+            "lng": -0.1767
+        }
     },
-    "2": {
+    "edinburgh": {
         "locations": [
             {
                 "name": "edinburgh",
@@ -188,9 +218,14 @@
                     "https://cdn.discordapp.com/attachments/1094785688261632090/1094785747229351986/PXL_20230115_131224875.jpg"
                 ]
             }
-        ]
+        ],
+        "start": {
+            "name": "imperial college london",
+            "lat": 51.4985,
+            "lng": -0.1767
+        }
     },
-    "1": {
+    "mallorca": {
         "locations": [
             {
                 "name": "mallorca",
@@ -206,9 +241,14 @@
                     "https://cdn.discordapp.com/attachments/1094742153999171754/1094743920128315392/PXL_20230129_174302162.NIGHT.jpg"
                 ]
             }
-        ]
+        ],
+        "start": {
+            "name": "imperial college london",
+            "lat": 51.4985,
+            "lng": -0.1767
+        }
     },
-    "0": {
+    "berlin, hamburg, copehagen": {
         "locations": [
             {
                 "name": "berlin",
@@ -246,6 +286,11 @@
                     "https://cdn.discordapp.com/attachments/1094734392380887160/1094741436446036109/PXL_20230401_105436774.jpg"
                 ]
             }
-        ]
+        ],
+        "start": {
+            "name": "imperial college london",
+            "lat": 51.4985,
+            "lng": -0.1767
+        }
     }
 }
