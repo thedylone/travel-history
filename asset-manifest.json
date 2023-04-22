@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/travel-history/static/css/main.f2fb9bcb.css",
-    "main.js": "/travel-history/static/js/main.39361059.js",
+    "main.css": "/travel-history/static/css/main.087bd141.css",
+    "main.js": "/travel-history/static/js/main.09229460.js",
     "static/js/787.a6242c03.chunk.js": "/travel-history/static/js/787.a6242c03.chunk.js",
     "index.html": "/travel-history/index.html",
-    "main.f2fb9bcb.css.map": "/travel-history/static/css/main.f2fb9bcb.css.map",
-    "main.39361059.js.map": "/travel-history/static/js/main.39361059.js.map",
+    "main.087bd141.css.map": "/travel-history/static/css/main.087bd141.css.map",
+    "main.09229460.js.map": "/travel-history/static/js/main.09229460.js.map",
     "787.a6242c03.chunk.js.map": "/travel-history/static/js/787.a6242c03.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f2fb9bcb.css",
-    "static/js/main.39361059.js"
+    "static/css/main.087bd141.css",
+    "static/js/main.09229460.js"
   ]
 }
