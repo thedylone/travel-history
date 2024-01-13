@@ -742,8 +742,8 @@
         "locations": [
             {
                 "name": "bath",
-                "lat": 53.958332,
-                "lng": -1.080278,
+                "lat": 51.38,
+                "lng": -2.36,
                 "date": "27 June 2023",
                 "images": [
                     "https://cdn.discordapp.com/attachments/1158684211151126568/1158684262988529744/PXL_20230627_102101523-EDIT.jpg",
@@ -768,6 +768,25 @@
             "lng": -0.1767
         }
     },
+    "kuala lumpur": {
+        "locations": [
+            {
+                "name": "kuala lumpur",
+                "lat": 3.140853,
+                "lng": 101.693207,
+                "date": "10 August 2023",
+                "images": [
+                    "https://cdn.discordapp.com/attachments/1195539970086158406/1195540000733921301/PXL_20230810_085424246-EDIT.jpg",
+                    "https://cdn.discordapp.com/attachments/1195539970086158406/1195540001417601034/PXL_20230810_061418456-EDIT.jpg"
+                ]
+            }
+        ],
+        "start": {
+            "name": "singapore",
+            "lat": 1.352083,
+            "lng": 103.819836
+        }
+    },
     "norwich": {
         "locations": [
             {
@@ -780,6 +799,87 @@
                     "https://cdn.discordapp.com/attachments/1158687410989826068/1158687459283062804/PXL_20231002_114414794-EDIT.jpg",
                     "https://cdn.discordapp.com/attachments/1158687410989826068/1158687458033160283/PXL_20231002_120637436.jpg",
                     "https://cdn.discordapp.com/attachments/1158687410989826068/1158687458565824522/PXL_20231002_132024588.jpg"
+                ]
+            }
+        ],
+        "start": {
+            "name": "imperial college london",
+            "lat": 51.4985,
+            "lng": -0.1767
+        }
+    },
+    "dartmoor": {
+        "locations": [
+            {
+                "name": "dartmoor",
+                "lat": 50.5666644,
+                "lng": -4.0,
+                "date": "10 November 2023 to 12 November 2023",
+                "images": [
+                    "https://cdn.discordapp.com/attachments/1195533820758339635/1195534103634788363/IMG_20231114_194741_732.jpg",
+                    "https://cdn.discordapp.com/attachments/1195533820758339635/1195534103953551530/IMG_20231114_194741_790.jpg",
+                    "https://cdn.discordapp.com/attachments/1195533820758339635/1195534104867909652/IMG_20231114_194741_856.jpg",
+                    "https://cdn.discordapp.com/attachments/1195533820758339635/1195534104247160973/IMG_20231114_194741_820.jpg"
+                ]
+            }
+        ],
+        "start": {
+            "name": "imperial college london",
+            "lat": 51.4985,
+            "lng": -0.1767
+        }
+    },
+    "budapest": {
+        "locations": [
+            {
+                "name": "budapest",
+                "lat": 47.497913,
+                "lng": 19.040236,
+                "date": "18 December 2023 to 21 December 2023",
+                "images": [
+                    "https://cdn.discordapp.com/attachments/1195534157917466714/1195534280189821018/IMG_20231223_072918_816.jpg",
+                    "https://cdn.discordapp.com/attachments/1195534157917466714/1195534281016082482/IMG_20231223_072918_764.jpg",
+                    "https://cdn.discordapp.com/attachments/1195534157917466714/1195534283952111686/IMG_20231223_072918_613.jpg",
+                    "https://cdn.discordapp.com/attachments/1195534157917466714/1195534283587190815/IMG_20231223_072918_675.jpg",
+                    "https://cdn.discordapp.com/attachments/1195534157917466714/1195534279812317234/IMG_20231223_072918_826.jpg",
+                    "https://cdn.discordapp.com/attachments/1195534157917466714/1195534281401974864/IMG_20231223_072918_750.jpg",
+                    "https://cdn.discordapp.com/attachments/1195534157917466714/1195534283251662870/IMG_20231223_072918_692.jpg"
+                ]
+            }
+        ],
+        "start": {
+            "name": "imperial college london",
+            "lat": 51.4985,
+            "lng": -0.1767
+        }
+    },
+    "new york + boston": {
+        "locations": [
+            {
+                "name": "new york",
+                "lat": 40.73061,
+                "lng": -73.935242,
+                "date": "3 January 2024 to 7 January 2024",
+                "images": [
+                    "https://cdn.discordapp.com/attachments/1195534306131587072/1195534459513086002/IMG_20240110_225929_595.jpg",
+                    "https://cdn.discordapp.com/attachments/1195534306131587072/1195534459261419661/IMG_20240110_225929_673.jpg",
+                    "https://cdn.discordapp.com/attachments/1195534306131587072/1195534458837803200/IMG_20240110_225929_705.jpg",
+                    "https://cdn.discordapp.com/attachments/1195534306131587072/1195534458489667584/IMG_20240110_225929_723.jpg",
+                    "https://cdn.discordapp.com/attachments/1195534306131587072/1195534457743081492/IMG_20240110_225929_756.jpg",
+                    "https://cdn.discordapp.com/attachments/1195534306131587072/1195534457290113025/IMG_20240110_225929_770.jpg"
+                ]
+            },
+            {
+                "name": "boston",
+                "lat": 42.361145,
+                "lng": -71.057083,
+                "date": "7 January 2024 to 9 January 2024",
+                "images": [
+                    "https://cdn.discordapp.com/attachments/1195534306131587072/1195534547912245248/IMG_20240112_124636_189.jpg",
+                    "https://cdn.discordapp.com/attachments/1195534306131587072/1195534548281348206/IMG_20240112_124636_240.jpg",
+                    "https://cdn.discordapp.com/attachments/1195534306131587072/1195534548679803040/IMG_20240112_124636_269.jpg",
+                    "https://cdn.discordapp.com/attachments/1195534306131587072/1195534549980033125/IMG_20240112_124636_351.jpg",
+                    "https://cdn.discordapp.com/attachments/1195534306131587072/1195534549652885564/IMG_20240112_124636_425.jpg"
                 ]
             }
         ],
